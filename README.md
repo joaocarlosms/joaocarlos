@@ -1,4 +1,4 @@
-# Hello, peoples, my name is João Carlos! 
+# Hello, peoples!! My name is João Carlos! 
 **Welcome to my github profile ✨**
 
 
